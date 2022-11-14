@@ -1,2 +1,2 @@
-# 1-2-Q-
-Q-learning
+# 1.2 Q-learning
+
