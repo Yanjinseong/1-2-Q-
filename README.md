@@ -17,3 +17,7 @@
 * Discount factor(γ) - 0~1사이의 값
   - 조금 더 효율적인 factor를 찾게 해준다
   - 가장 큰 값을 다음 state에서 가져오되, γ를 곱해서 가져온다
+
+* Q-update
+
+<img src="https://user-images.githubusercontent.com/68425309/201660546-b3a688d4-1144-4b91-9925-a483164aefd4.jpg" width="800" height="400"/> 
