@@ -21,3 +21,8 @@
 * Q-update
 
 <img src="https://user-images.githubusercontent.com/68425309/201660546-b3a688d4-1144-4b91-9925-a483164aefd4.jpg" width="800" height="400"/> 
+
+
+
+참조 : <혁펜하임 [강화학습] 1-2강. Q-learning 쉬운 설명 | "맛집 찾기"로 설명하는 강화 학습>
+(https://www.youtube.com/watch?v=3Ch14GDY5Y8&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&index=2)
