@@ -23,7 +23,7 @@
 * Exploration & Exploitation (trade off): 새로운 Path , 새로운 맛집!
   - Exploitation : Q값을 이용하여 Greedy하게 이동
 
-* (Decaying) ε - Greedy : 탐험을 점점 줄여나간다 (= 입실론을 0.9 -> 0)
+* (Decaying) ε - Greedy : 탐험을 점점 줄여나간다 (= 에피소드별로 입실론을 줄여나간다 0.9 -> 0)
 
 * Discount factor(γ) - 0~1사이의 값
   - 조금 더 효율적인 factor를 찾게 해준다
